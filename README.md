@@ -1,28 +1,27 @@
 # Hello there! 👋 
 
-I'm Noé Tarbouriech, a DevOps engineer apprentice at Polytech Montpellier.
+I'm Noé Tarbouriech, a DevOps engineer with a strong focus on cloud-native infrastructure.
 
 ## About Me
 
 My primary areas of interest revolve around Kubernetes and Go, as I continually explore cloud-native architectures for scalable solutions. I'm genuinely enthusiastic about leveraging these technologies to engineer efficient and innovative solutions, meeting the demands of modern software environments.
 
-## Interests
+## My Blog
 
-🚀 Kubernetes
+I maintain a blog where I share about my experience with **DevOps, Kubernetes, cloud-native tooling, and various software related topics**.
 
-🐹 Go
+You can acces this blog here: [noe-t.dev](https://noe-t.dev/)
 
-🛠️ DevOps
+## Interests & Focus Areas
 
-🏗️ Platform Engineering
-
-☁️ Cloud Native technologies
-
-💻 Infrastructure as Code (IaC)
-
-🔄 Continuous Integration and Continuous Deployment (CI/CD)
-
-🔍 Monitoring and Observability
+- 🚀 Kubernetes & container orchestration  
+- 🏗️ Platform Engineering & internal tooling  
+- 🐹 Go (APIs, controllers, CLIs)  
+- 🛠️ DevOps & Site Reliability Engineering  
+- ☁️ Cloud-native architectures  
+- 💻 Infrastructure as Code (OpenTofu, Pulumi, etc.)  
+- 🔄 CI/CD pipelines & deployment automation  
+- 🔍 Monitoring, logging & tracing (observability)
 
 ## Connect with Me
 
