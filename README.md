@@ -10,7 +10,7 @@ My primary areas of interest revolve around Kubernetes and Go, as I continually 
 
 I maintain a blog where I share about my experience with **DevOps, Kubernetes, cloud-native tooling, and various software related topics**.
 
-You can acces this blog here: [noe-t.dev](https://noe-t.dev/)
+You can access this blog here: [noe-t.dev](https://noe-t.dev/)
 
 ## Interests & Focus Areas
 
